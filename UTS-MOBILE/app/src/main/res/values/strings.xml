@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BiografiMahasiswa</string>
+    <string name="nama_aliya_raffa_naura_ayu">Nama: Aliya Raffa Naura Ayu</string>
+    <string name="nim_2310817120014">NIM: 2310817120014</string>
+    <string name="program_studi_teknologi_informasi">Program Studi: Teknologi Informasi</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="foto_mahasiswa">Foto Mahasiswa</string>
+    <string name="fakultas_teknik">Fakultas: Teknik</string>
+    <string name="asal_banjarmasin">Asal: Banjarmasin</string>
+    <string name="kembali">Kembali</string>
+    <string name="biografi_mahasiswa">Biografi Mahasiswa</string>
+    <string name="hobi_naura">Hobi: Mendengarkan Musik</string>
+    <string name="cita_cita">Cita - Cita: PNS</string>
+    <string name="univ_ulm">Universitas: Lambung Mangkurat</string>
+</resources>
